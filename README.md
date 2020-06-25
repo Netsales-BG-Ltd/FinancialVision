@@ -1,5 +1,9 @@
 
 
+Description
+
+
+
 ## Financial Vision
 We are standing at the threshold of the information age, the financial services industry becomes the perfect playing field for machine learning technologies. We dedicate to develop applications of deep learning in finance, study the causal relationship between the data, and make progress on related computer science theory.
 
